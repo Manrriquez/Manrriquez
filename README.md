@@ -11,7 +11,7 @@
 
 <p>
     Moro em itaquaquecetuba/SP, nome dificil não? <br />
-    Atualmente estou me capacitando pela @NewTabAcademy como <b>Desenvolvedor Full Stack </b> <br /> 
+    Estou me capacitando pela @NewTabAcademy como <b>Desenvolvedor Full Stack </b> <br /> 
     Em busca do primeiro emprego na área! <br />
     Veja meu portifolio: https://www.sendofeito.com/em-breve-disponivel <br />
 </p>
