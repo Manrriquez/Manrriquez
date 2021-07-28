@@ -22,3 +22,30 @@
 <a href="https://github.com/Manrriquez" target="_blank"><img width="45px" height="45px" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 <hr />
+
+<h3>Meus interesses pessoais:</h3>
+
+<p>
+  Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira,<br>
+  em busca do meu desenvolvimento pessoal em prol da minha vida e a empresa que eu residir.
+</p>
+
+<b>Meus Hobbies são:</b>
+<p> Estudar sobre ReactJs e Js <br>
+    Ler livros <br>
+    Tocar trompete <br>
+    Participar de Eventos relacionados na area de ti <br>
+</p>
+<h5>Linguagens e Ferramentas:</h5>
+
+<img align="left"  src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="">
+<img align="left" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" width="40px" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="">
+<img align="left" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<br />
+<br />
+<hr />
