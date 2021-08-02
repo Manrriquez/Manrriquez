@@ -12,8 +12,8 @@
 <p>
     Moro em itaquaquecetuba/SP, nome dificil não? <br />
     Estou me capacitando pela @NewTabAcademy como <b>Desenvolvedor Full Stack </b> <br /> 
-    Em busca do primeiro emprego na área! <br />
-    Veja meu portifolio: https://www.sendofeito.com/em-breve-disponivel <br />
+    Em busca de uma oportunidade no mercado de trabalho! <br />
+    Veja meu portifolio: https://manrriquez.github.io/Portifolio/ <br />
 </p>
 <h3>Se conecte comigo:</h3>
 <a href="https://www.linkedin.com/in/luismanrriquez/" target="_blank"><img width="45px" height="45px"src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
