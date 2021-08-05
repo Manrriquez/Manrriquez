@@ -12,7 +12,7 @@
 <p>
     Moro em itaquaquecetuba/SP, nome dificil não? <br />
     Estou me capacitando pela @NewTabAcademy como <b>Desenvolvedor Full Stack </b> <br /> 
-    E curso <br> Analise e Desenvolvimento de Sistemas <br/> na Anhembi Morumbi <br />
+    E curso Analise e Desenvolvimento de Sistemas na Anhembi Morumbi <br />
     Em busca de uma oportunidade no mercado de trabalho! <br />
     Veja meu portifolio: https://manrriquez.github.io/Portifolio/ <br />
 </p>
