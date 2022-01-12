@@ -17,7 +17,7 @@
     Veja meu portifolio: https://manrriquez.github.io/Meu-Portifolio/ <br />
 </p>
 <h3>Se conecte comigo:</h3>
-<a href="https://www.linkedin.com/in/luismanrriquez/" target="_blank"><img width="45px" height="45px"src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="#" target="_blank"><img width="45px" height="45px"src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="mailto:manrriquez.contato@gmail.com" target="_blank"><img width="45px" height="45px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
 <a href="https://www.instagram.com/l_uiiix/" target="_blank"><img width="45px" height="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://github.com/Manrriquez" target="_blank"><img width="45px" height="45px" src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
