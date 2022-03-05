@@ -15,7 +15,7 @@
     E curso Analise e Desenvolvimento de Sistemas na Anhembi Morumbi, <br />
     E Sistema de Informação pela UNINOVE <br />
     Em busca de uma oportunidade no mercado de trabalho! <br />
-    Veja meu portifolio: <em breve> <br />
+    Veja meu portifolio: em breve" <br />
 </p>
 <h3>Se conecte comigo:</h3>
 <a href="#" target="_blank"><img width="45px" height="45px"src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
