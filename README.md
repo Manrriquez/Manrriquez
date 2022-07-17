@@ -1,12 +1,13 @@
 <!-- Your title -->
 ## Hi, I'm Luis Fernando, a Developer 🚀 from Brazil.
+<h1 align="center">👋 Hi, I'm Luis Fernando, a Developer 🚀 from Brazil.</h1> 
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 <div align="center">
-  https://img.shields.io/github/followers/Manrriquez?style=social
+  <img src="https://img.shields.io/github/followers/Manrriquez?style=social"></img>
 </div>
 
 &nbsp;
