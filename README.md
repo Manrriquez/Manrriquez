@@ -56,8 +56,8 @@ class About extends Me
             ReactJS::class,
             TailwindCss::class,
             Bootstrap::class,
-            Html:class,
-            Css:class,
+            Html::class,
+            Css::class,
             Sass::class,
         ];
     }
