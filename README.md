@@ -74,8 +74,8 @@ class About extends Me
     public function getSO(): array
     {
        return [
-         Windows10::class,
-         Mint::class,
+         Windows::class,
+         Linux::class,
        ];
     }
     
