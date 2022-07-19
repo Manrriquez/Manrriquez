@@ -75,7 +75,7 @@ class About extends Me
     {
        return [
          Windows10::class,
-         LinuxMint::class,
+         Mint::class,
        ];
     }
     
