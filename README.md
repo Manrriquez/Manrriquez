@@ -4,7 +4,7 @@
 <div align="center"> 
   
 [![](https://img.shields.io/badge/Linkedin-Manrriquezs-blue)](https://www.linkedin.com/in/manrriquezs/)
-[![](https://img.shields.io/badge/Gmail-manrriquez.contato@gmail.com-red)](mailto:manrriquez.contato@gmail.com)
+[![](https://img.shields.io/badge/Gmail-manrriquez.contato@gmail.com-blue)](mailto:manrriquez.contato@gmail.com)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2028%20mins-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=manrriquez.manrriquez)
 <br />
