@@ -61,7 +61,24 @@ class About extends Me
             Sass::class,
         ];
     }
-
+    
+    public function getTools(): array
+    {
+       return [
+         Insomnia::class,
+         HeidSql::class,
+         PhpStorm::class,
+       ];
+    }
+    
+    public function getSO(): array
+    {
+       return [
+         Windows10::class,
+         LinuxMint::class,
+       ];
+    }
+    
     public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
