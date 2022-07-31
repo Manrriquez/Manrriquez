@@ -111,11 +111,11 @@ class About extends Me
 <h2 align="center"> :new_moon:	Repositories</h2>
   
 <div align=center>
-  <a href="https://github.com/Manrriquez/Laravel-Ecommerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=Laravel-Ecommerce&theme=dark" />
+  <a href="https://github.com/Manrriquez/lara-crud">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=lara-crud&theme=dark" />
   </a>
-  <a href="https://github.com/Manrriquez/eccomerce-vuejs-simples">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=eccomerce-vuejs-simples&theme=dark" />
+  <a href="https://github.com/Manrriquez/laravue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=laravue&theme=dark" />
   </a>
   
 </div>
