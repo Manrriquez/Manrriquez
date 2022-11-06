@@ -15,7 +15,7 @@
 <div>
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="370px" width="400px" align="right" alt="Computador Luixx">
 
- <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mim..</h3>
+ <h3 align="left">Sobre mim.. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
 <p align="left"> 
   Meu nome é Luis Fernando, atualmente em processo de graduação na instituição Anhembi Morumbi no curso de Analise e desenvolvimento de sistemas (Trancado    no momento).
@@ -24,6 +24,10 @@
 <p align="left">
      Conhecimento prático em metodologias ágeis - Kanban & Scrum.
   Atuação direto em projetos práticos/profissionais em grupo, com metodologia Scrum sendo utilizada
+</p>
+
+<p align="left">
+  Atualmente tendo como foco Java + SpringBoot + Docker, Procurando sempre me superar a cada dia mais, com desafios e projetos utilizando java. 
 </p>
 
 <p align="left">
