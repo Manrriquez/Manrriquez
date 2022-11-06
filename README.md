@@ -77,7 +77,7 @@
 <hr />
 <br />
 
-<h2 align="center"> :new_moon:	Repositories</h2>
+<h2 align="center"> :new_moon:	Repositorios</h2>
   
 <div align=center>
   <a href="https://github.com/Manrriquez/lara-crud">
