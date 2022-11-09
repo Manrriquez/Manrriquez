@@ -18,7 +18,7 @@
  <h3 align="left">Sobre mim.. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
 <p align="left"> 
-  Meu nome é Luis Fernando, atualmente em processo de graduação na instituição Anhembi Morumbi no curso de Analise e desenvolvimento de sistemas (Trancado    no momento).
+  Meu nome é Luis Fernando, atualmente em processo de graduação na instituição Anhembi Morumbi no curso de Analise e desenvolvimento de sistemas.
 </p>
   
 <p align="left">
