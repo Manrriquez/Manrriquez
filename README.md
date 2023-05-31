@@ -92,32 +92,3 @@ class About extends Me
 <br />
 
 <hr />
-
-<h2 align="center"> :chart_with_upwards_trend: Stats </h2>
-
-<div align="center" style="display: flex;">
- 
-  <div align="center" style="display: flex;">
-    <a href="https://github.com/Manrriquez">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Manrriquez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manrriquez&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-</div>
-  
-<hr />
-<br />
-
-<h2 align="center"> :new_moon:	Repositories</h2>
-  
-<div align=center>
-  <a href="https://github.com/Manrriquez/lara-crud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=lara-crud&theme=dark" />
-  </a>
-  <a href="https://github.com/Manrriquez/laravue">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manrriquez&repo=laravue&theme=dark" />
-  </a>
-  
-</div>
-
-<hr />
