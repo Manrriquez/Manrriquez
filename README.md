@@ -24,13 +24,13 @@ class About extends Me
             Php::class,
             Laravel::class,
             Javascript::class,
-            Jquery::class,
             Vuejs::class,
             ReactJS::class,
             TailwindCss::class,
             Bootstrap::class,
-            Html::class,
+            Materialize::class,
             Css::class,
+            Less::class
             Sass::class,
         ];
     }
@@ -39,6 +39,7 @@ class About extends Me
     {
        return [
          Insomnia::class,
+         Postman::class,
          HeidSql::class,
          PhpStorm::class,
        ];
