@@ -12,8 +12,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Default',
-                'position' => 'Default'         
+                'company' => '奇艺集团',
+                'position' => 'Software Engineer Front-End'         
             ]
         ];
     }
